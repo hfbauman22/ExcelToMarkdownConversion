@@ -1,5 +1,5 @@
 ## Macro output rendered
-The table below shows the rendered ouput from the macro operating on [this]("Macro Enabled Spring 2022 - Data Science Schedule.xlsx") spreadsheet.
+The table below shows the rendered ouput from the macro operating on [this](Macro Enabled Spring 2022 - Data Science Schedule.xlsx) spreadsheet.
 
 |  |  | **Topic** | **Due** |  |  |  |  |  |  |  |  |  |  |  |  | 
 | ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
